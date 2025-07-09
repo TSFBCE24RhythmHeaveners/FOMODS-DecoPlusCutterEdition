@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "blocks",
+  "ingredient": "minecraft:glowstone",
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmNhNTJiMjlhODk4NDRkM2IyN2NjNDYyYmE4ZDhiZWY2ZjZlMTAwODUwYmY0MmQzYjQ2YTRmNmZkNDk2ZWM4ZCJ9fX0="
+          }
+        ]
+      },
+      "minecraft:item_name": "\"Lampshade\"",
+      "minecraft:rarity": "common"
+    }
+  }
+}
