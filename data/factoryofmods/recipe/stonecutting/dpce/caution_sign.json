@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "blocks",
+  "ingredient": "minecraft:oak_sign",
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUwYTIyNmM0MmIzY2U0NjgwZTg2ZWRmNDUwMmYzNGQ4MzA3MjA3MTAxMjE4NWJmMzRlNDc2ODU0OGI3MzdhYyJ9fX0="
+          }
+        ]
+      },
+      "minecraft:item_name": "\"Caution Sign\"",
+      "minecraft:rarity": "common"
+    }
+  }
+}
